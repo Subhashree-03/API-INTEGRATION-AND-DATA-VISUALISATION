@@ -10,6 +10,6 @@ API Integration in Python
 API integration in Python involves connecting your Python application to external services or platforms via their Application Programming Interfaces (APIs). This allows your application to send requests to the external service, retrieve data, or perform actions.
 Key steps and tools:
 Making HTTP Requests: The requests library is the standard for making HTTP requests (GET, POST, PUT, DELETE) to interact with APIs.
-##OUTPUT
-"C:\Users\asus\Desktop\PIC1.jfif"
+
+
 
